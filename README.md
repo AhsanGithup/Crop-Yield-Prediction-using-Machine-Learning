@@ -66,3 +66,6 @@ This project applies machine learning techniques to predict crop yield based on 
 * Real-time weather data integration
 * Deployment as a web-based decision support tool
 
+![images (4)](https://github.com/user-attachments/assets/028fff40-2637-4713-b454-ce16b133ab22)
+
+
